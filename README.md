@@ -46,7 +46,7 @@ This repository contains a project for creating a responsive sidebar navigation 
 
 2. Navigate to the project directory:
    ```bash
-   cd <sidebar-menu>
+   cd sidebar-menu
    ```
 
 3. Open `index.html` in your browser to view the project.
